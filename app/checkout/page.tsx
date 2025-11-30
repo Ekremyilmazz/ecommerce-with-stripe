@@ -4,6 +4,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { useCartStore } from "@/store/card-store";
 import { checkoutAction } from "./checkout-action";
+import Link from "next/link";
 
 export default function CheckoutPage() {
   const { items, removeItem, addItem } = useCartStore();
@@ -16,6 +17,7 @@ export default function CheckoutPage() {
     return (
       <div className="container mx-auto px-4 py-8 text-center">
         <h1 className="text-3xl font-bold mb-4">Your Cart is Empty</h1>
+        <Link href={"/products"} className="text-blue-600 hover:underline">Explore Products</Link>
       </div>
     );
   }
