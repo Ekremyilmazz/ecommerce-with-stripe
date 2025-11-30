@@ -1,36 +1,49 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Ekrem's Store | E-Commerce Store
+A fast, modern, and responsive e-commerce application built with Next.js, Shadcn UI, TailwindCSS, Zustand, and Stripe.
 
-## Getting Started
+## 🚀 Features
+- Product listing & pricing
+- Add-to-cart functionality with responsive buttons from shadcn UI
+- Stripe Checkout integration
+- Responsive UI
+- Clean and modular code structure
+- Scalable container-based deployment
 
-First, run the development server:
+## 💻 Technologies Used
+- Next.js – App Router, API Routes, optimized performance
+- TailwindCSS – Utility-first styling
+- Shadcn UI - UI component library
+- Zustand – Simple and fast global state
+- Stripe – Secure payment processing
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🌐 Live Demo (Vercel)
+- https://ekrems-store.vercel.app/
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📥 Installation
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. Clone the repository
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+   ```bash
+   git clone https://github.com/Ekremyilmazz/ecommerce-with-stripe.git
+3. Option 2: Run manually
+   ```bash
+   cd ecommerce-with-stripe
+   npm install
+   npm run dev
 
-## Learn More
+### Environment Variables:
+- STRIPE_SECRET_KEY = your_stripe_key
+- NEXT_PUBLIC_BASE_URL = http://localhost:3000
 
-To learn more about Next.js, take a look at the following resources:
+## 📸 Screenshots
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Dashboard
+![Image](https://github.com/user-attachments/assets/763d7263-79d3-4a5e-853a-c713e74880b8)
+### Products Page
+![Image](https://github.com/user-attachments/assets/d20544b1-b973-4199-bb4e-102efb585ec4)
+### Users Page
+![Image](https://github.com/user-attachments/assets/3e48641f-39bf-464f-9915-50848c123fd3)
+### Tasks Page
+![Image](https://github.com/user-attachments/assets/ac2c4bc1-9a38-4b0e-b96e-c697f322fcc0)
+### Notifications Page (Filtering By User ID)
+![Image](https://github.com/user-attachments/assets/7ba97a40-7596-4452-a7df-5de7fc34ab61)
