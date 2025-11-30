@@ -45,6 +45,5 @@ A fast, modern, and responsive e-commerce application built with Next.js, Shadcn
 <img width="1365" height="603" alt="Image" src="https://github.com/user-attachments/assets/fe7794b6-2aba-4e6f-99b4-82a4ba6afcfd" />
 <img width="1365" height="599" alt="Image" src="https://github.com/user-attachments/assets/bdc43ae6-cff0-452d-8975-c35e246ec008" />
 ### Payment Success Page
-![Image](https://github.com/user-attachments/assets/ac2c4bc1-9a38-4b0e-b96e-c697f322fcc0)
-### Notifications Page (Filtering By User ID)
-![Image](https://github.com/user-attachments/assets/7ba97a40-7596-4452-a7df-5de7fc34ab61)
+<img width="1365" height="603" alt="Image" src="https://github.com/user-attachments/assets/6283333a-f268-499c-9acb-6b08c2d14e8c" />
+
