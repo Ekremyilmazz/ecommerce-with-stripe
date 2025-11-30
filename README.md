@@ -37,10 +37,10 @@ A fast, modern, and responsive e-commerce application built with Next.js, Shadcn
 
 ## 📸 Screenshots
 
-### Dashboard
-![Image](https://github.com/user-attachments/assets/763d7263-79d3-4a5e-853a-c713e74880b8)
+### Home Page
+<img width="1365" height="605" alt="image" src="https://github.com/user-attachments/assets/68f8c53c-8335-4c64-a157-60e03b2b6972" />
 ### Products Page
-![Image](https://github.com/user-attachments/assets/d20544b1-b973-4199-bb4e-102efb585ec4)
+<img width="1365" height="605" alt="Image" src="https://github.com/user-attachments/assets/16ab49b6-2034-45e8-b220-c8d0839c58bc" />
 ### Users Page
 ![Image](https://github.com/user-attachments/assets/3e48641f-39bf-464f-9915-50848c123fd3)
 ### Tasks Page
