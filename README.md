@@ -3,6 +3,8 @@ A fast, modern, and responsive e-commerce application built with Next.js, Shadcn
 
 ## 🚀 Features
 - Product listing & pricing
+- Pagination
+- Search bar
 - Add-to-cart functionality with responsive buttons from shadcn UI
 - Stripe Checkout integration
 - Responsive UI
