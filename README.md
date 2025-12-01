@@ -54,3 +54,6 @@ A fast, modern, and responsive e-commerce application built with Next.js, Shadcn
 ### Payment Success Page
 <img width="1365" height="603" alt="Image" src="https://github.com/user-attachments/assets/6283333a-f268-499c-9acb-6b08c2d14e8c" />
 
+### Responsive View
+<img width="1121" height="606" alt="Image" src="https://github.com/user-attachments/assets/c64bdc7c-1733-4d66-8180-4300f08dee4a" />
+
